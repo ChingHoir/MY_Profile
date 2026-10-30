@@ -12,7 +12,7 @@
 
 I'm a fourth-year **Information and Communication Engineering** student at ITC, and I'm looking for a **Web Developer Internship**.
 
-I build full-stack web apps from start to finish: I design the database, write secure REST APIs with **NestJS, Express.js and Spring Boot**, and build responsive interfaces with **Vue.js, Nuxt and Next.js**. I care about clean, maintainable code and I like turning complex problems into simple, working software.
+I build full-stack web apps from start to finish, and I also build cross-platform mobile apps with **Flutter**. On the web, I design the database, write secure REST APIs with **NestJS, Express.js and Spring Boot**, and build responsive interfaces with **Vue.js, Nuxt and Next.js**. I care about clean, maintainable code and I like turning complex problems into simple, working software.
 
 - 🌾 Currently building **[Farm-Link](https://github.com/ChingHoir/farmlink)**, a marketplace that connects farmers and buyers
 - 🌱 Learning more about DevOps, CI/CD and scalable system design
@@ -26,13 +26,19 @@ I build full-stack web apps from start to finish: I design the database, write s
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,java,c,cpp" alt="Languages"/>
 </p>
 
 **Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nuxtjs,nextjs,html,css,tailwind" alt="Frontend"/>
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Mobile"/>
 </p>
 
 **Backend**
@@ -71,9 +77,12 @@ Also: REST APIs · JWT Authentication · Hibernate / JPA · Database Design · C
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChingHoir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChingHoir&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChingHoir&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChingHoir&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
 </p>
 
 ---
